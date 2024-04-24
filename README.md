@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>README - Proyecto de Gestión de Usuarios</title>
+  README - Proyecto de Gestión de Usuarios
 </head>
 <body>
   <h1>Proyecto de Gestión de Usuarios</h1>
