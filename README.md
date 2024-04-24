@@ -9,15 +9,7 @@
 <body>
   <h1>Proyecto de Gestión de Usuarios</h1>
 
-  <p>Este proyecto es una aplicación web desarrollada en Angular con Ionic para la gestión de usuarios. Proporciona funcionalidades para crear, ver, buscar y realizar acciones en los usuarios.</p>
-
-  <h2>Funcionalidades</h2>
-  <ul>
-    <li><strong>Crear Usuario:</strong> Permite crear un nuevo usuario proporcionando su nombre y correo electrónico.</li>
-    <li><strong>Ver Usuarios:</strong> Muestra una lista de todos los usuarios registrados en la aplicación.</li>
-    <li><strong>Buscar Usuario:</strong> Permite buscar un usuario por su nombre.</li>
-    <li><strong>Interactuar con Usuarios:</strong> Proporciona opciones para interactuar con los usuarios existentes, como enviarles mensajes, bloquearlos o eliminarlos.</li>
-  </ul>
+  <p>La idea de este proyecto es una estructuración de un template para reutilizar eficientemente los componentes, cabe recalcar, todavía no esta terminado debido a complicaciones e interacciones con Angular.</p>
 
   <h2>Componentes</h2>
 
@@ -26,6 +18,9 @@
 
   <h3>MyInputComponent</h3>
   <p>Este componente se utiliza para generar campos de entrada personalizados en la aplicación. Proporciona características como la configuración del tipo de entrada, el placeholder y la disponibilidad de deshabilitar el campo.</p>
+
+  <h3>MyLabelComponent</h3>
+  <p> se utiliza para asociar un texto descriptivo a un elemento de formulario, como <input>, <select> o <textarea>. Esto proporciona una mejor experiencia de usuario al permitir que los usuarios hagan clic en el texto descriptivo para enfocar o activar el elemento de formulario correspondiente.</p>
 
   <h2>Instalación</h2>
   <ol>
