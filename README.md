@@ -34,15 +34,7 @@
     <li>Ejecuta el proyecto utilizando el comando <code>ionic serve</code>.</li>
   </ol>
 
-  <h2>Contribución</h2>
-  <p>Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:</p>
-  <ol>
-    <li>Crea un fork del repositorio.</li>
-    <li>Realiza tus cambios en una nueva rama.</li>
-    <li>Envía un pull request con tus cambios para su revisión.</li>
-  </ol>
-
   <h2>Autor</h2>
-  <p>Este proyecto fue creado por [Tu Nombre].</p>
+  <p>Este proyecto fue creado por Andrés Molina.</p>
 </body>
 </html>
