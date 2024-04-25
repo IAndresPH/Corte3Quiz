@@ -1,0 +1,59 @@
+<ion-content class="ion-padding">
+    <div class="row mt-8">
+      <div class="col-md-4 mx-auto">
+        <ion-card>
+          <ion-card-header>
+            <ion-title text-center>CREAR USUARIO</ion-title>
+          </ion-card-header>
+  
+          <ion-card-content>
+            <form>
+
+            <!-- Componente de prueba -->
+            <ion-list>
+              <ion-item lines="full">
+                <app-inputs id="inputPrueba" type="type" name="inputPrueba" placeholder="Input Prueba" labelPlacement="floating" autocomplete="off"></app-inputs>
+              </ion-item>
+            </ion-list>
+  
+            <ion-list>
+              <ion-item lines="full">
+                <ion-input labelPlacement="floating" type="text" id="nombreAutor" name="nombreAutor" autocomplete="off"
+                  required><div slot="label">Nombre: <ion-text color="danger">(Required)</ion-text></div>
+                </ion-input>
+              </ion-item>
+            </ion-list>
+  
+            <ion-list>
+              <ion-item lines="full">
+                <ion-input labelPlacement="floating" type="date" id="genero" name="genero" autocomplete="off"
+                  required><div slot="label">Fecha nacimiento: <ion-text color="danger">(Required)</ion-text></div>
+                </ion-input>
+              </ion-item>
+            </ion-list>
+  
+            <ion-list>
+              <ion-item lines="full">
+                <ion-input labelPlacement="floating" type="number" id="editorial" name="editorial" autocomplete="off"
+                  required><div slot="label">Celular: <ion-text color="danger">(Required)</ion-text></div>
+                </ion-input>
+              </ion-item>
+            </ion-list>
+  
+            <ion-list>
+              <ion-item lines="full">
+                <ion-input labelPlacement="floating" type="text" id="fecha" name="fecha" autocomplete="off"
+                  required><div slot="label">Correo: <ion-text color="danger">(Required)</ion-text></div>
+                </ion-input>
+              </ion-item>
+            </ion-list>
+              <button class="btn btn-success w-100 mb-1"><ion-icon name="save-sharp"></ion-icon></button>
+  
+              <ion-button color="primary" expand="full" routerLink="/libros">
+                <ion-icon name="return-down-back-sharp"></ion-icon></ion-button>
+            </form>
+          </ion-card-content>
+        </ion-card>
+      </div>
+    </div>
+  </ion-content>
