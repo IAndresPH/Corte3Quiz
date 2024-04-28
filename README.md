@@ -7,7 +7,7 @@
   README - Proyecto de Gestión de Usuarios
 </head>
 <body>
-  <h1>Proyecto de Gestión de Usuarios</h1>
+  <h1>Quiz I - III</h1>
 
   <p>La idea de este proyecto es una estructuración de un template para reutilizar eficientemente los componentes, cabe recalcar, ya esta terminado debido a complicaciones e interacciones con Angular se demoro un poco.</p>
 
