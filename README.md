@@ -9,7 +9,7 @@
 <body>
   <h1>Proyecto de Gestión de Usuarios</h1>
 
-  <p>La idea de este proyecto es una estructuración de un template para reutilizar eficientemente los componentes, cabe recalcar, todavía no esta terminado debido a complicaciones e interacciones con Angular.</p>
+  <p>La idea de este proyecto es una estructuración de un template para reutilizar eficientemente los componentes, cabe recalcar, ya esta terminado debido a complicaciones e interacciones con Angular.</p>
 
   <h2>Componentes</h2>
 
