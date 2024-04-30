@@ -1,7 +1,0 @@
-{
-  "name": "quiz2-corte3",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "vue-vite"
-}
